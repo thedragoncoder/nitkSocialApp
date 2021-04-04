@@ -1,6 +1,6 @@
 # NITK Social Media App
 
-Note: <b>As a team of 4 we have made this app. The original app is present here : https://github.com/thedragoncoder/NITK_Social_App. I wanted to make some working changes into the app like adding a back button and probably will work on it further too. So I have made the same repo here too.So please do check the original repository out. Cheers !</b>
+Note: <b>As a team of 4, we have made this app. The original app is present here : https://github.com/thedragoncoder/NITK_Social_App. I wanted to make some working changes into the app like adding a back button and probably will work on it further too. So I have made the same repo here too.So please do check the original repository out. Cheers !</b>
 <br>
 <br>
 Some of the features of this app are the following :
