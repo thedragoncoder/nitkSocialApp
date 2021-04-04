@@ -10,6 +10,11 @@ Some of the features of this app are the following :
 <li>If anyone is hesitating to ask doubts, there will be an anonymity option too where users can ask questions anonymously!<br>
 <li>If anyone is worried about missing any wonderful event happening in NITK, the app will take care of that too as an organisation can register their events and that will be added to the events list that will be visible to all users on the event page.<br>
 </ol><br>
+<b> Instructions on how to use it </b>
+<ol>
+  <li> Download/clone the repository.
+  <li> Go to the dist folder
+  <li> Open the terminal and type the following command<br> <code>java -jar NITK_Social_App.jar </code> <br><br>
 <b>Original Contributors :</b>
 <ol>
   <li> Manas Trivedi
