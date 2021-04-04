@@ -9,4 +9,11 @@ Some of the features of this app are the following :
 <li>Students will be able to ask any doubt related to studies or anything and those questions can be answered in comments of that post by other users.<br>
 <li>If anyone is hesitating to ask doubts, there will be an anonymity option too where users can ask questions anonymously!<br>
 <li>If anyone is worried about missing any wonderful event happening in NITK, the app will take care of that too as an organisation can register their events and that will be added to the events list that will be visible to all users on the event page.<br>
+</ol><br>
+<b>Original Contributors :</b>
+<ol>
+  <li> Manas Trivedi
+  <li> Yash Gupta
+  <li> K Prajwal
+  <li> Ashutosh Anand
 </ol>
