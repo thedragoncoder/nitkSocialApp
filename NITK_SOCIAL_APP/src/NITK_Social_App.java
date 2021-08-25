@@ -52,7 +52,7 @@ public class NITK_Social_App extends javax.swing.JFrame {
         case 9: createEventFrame.setVisible(true);
     }
 }
-    public void makeConnection(){
+    public void makeConnection(){ // making connection to the online dbms file that is hosted at some website.
         try{
             con = DriverManager.getConnection("jdbc:mysql://sql12.freemysqlhosting.net:3306/sql12391126", "sql12391126", "Mx5G9DXTqv");
             stmt=con.createStatement();
@@ -1211,7 +1211,7 @@ public class NITK_Social_App extends javax.swing.JFrame {
     private void signUpWebsiteTFActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_signUpWebsiteTFActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_signUpWebsiteTFActionPerformed
-
+// the action for submit button.
     private void signUpSubmitButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_signUpSubmitButtonActionPerformed
         // TODO add your handling code here:
         makeConnection();
